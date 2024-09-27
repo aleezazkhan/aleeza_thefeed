@@ -75,6 +75,7 @@ section{
 
 section img{ 
     background-color: #BFBFB8;
+    border-radius: 15px;
 }
 
 
@@ -98,6 +99,10 @@ footer{
 #music {
     height:fit-content;
     text-align: center;
+}
+
+#music img{
+    border-radius: 20px;
 }
 
 #quote img{
