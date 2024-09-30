@@ -6,7 +6,8 @@ body {
     background-color:#F2F2F2;
     max-width: 100%;
     margin:0 auto
-    text align:center;}
+    text align: center;
+}
 
 header{
     text-align: center;
@@ -35,6 +36,13 @@ div h1 {
   font-style: normal;
   text-align: center;
   font-size: small;
+}
+section h2{
+    font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  text-align: center;
+  font-size:larger
 }
 h3{ 
     font-family: "Quicksand", sans-serif;
@@ -161,6 +169,8 @@ footer{
     text-align: center;
  }
 
+
+
  #septemberfavs{
     background-color: #BFBFB8;
     padding: 2%; 
@@ -168,3 +178,9 @@ footer{
     text-align: center;
 
  }
+
+
+
+ 
+
+ 
