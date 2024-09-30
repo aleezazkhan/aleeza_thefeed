@@ -13,7 +13,8 @@ body {
 header{
     text-align: center;
     margin:auto;
-    margin-top: 15%;
+    margin-top: 8%;
+    margin-left: 3%;
 }
 
 header img:hover {
@@ -134,6 +135,7 @@ footer{
     top: 0px; 
     left: 0px; 
     align-content: center;
+    margin-left: 10%;
  }
  
  #trio1{
@@ -144,11 +146,16 @@ footer{
     max-width: 100%; 
  }
 
- #trio1 img {
-    max-width: 100%;
-    padding-left: 2%;
+ #trio1 p{
+    text-align: center;
  }
 
+ #trio1 img {
+    max-width: 100%;
+    padding-left: 5%;
+    align-content: center;
+    margin-left: 3%;
+ }
 
 
  #trio2{
@@ -162,12 +169,18 @@ footer{
 
  #trio2 img {
     max-width: 100%;
-    padding:5%;
+    padding: 2%;
     border-radius: 20px;
+    align-content: center;
+    margin-left: 3%;
  }
 
  #trio2 video{
     border-radius: 20px;
+ }
+
+ #trio2 p{
+    text-align: center;
  }
 
  #pinterest{
