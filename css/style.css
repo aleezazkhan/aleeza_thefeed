@@ -6,8 +6,8 @@
 body {
     background-color:#F2F2F2;
     max-width: 100%;
-    margin:0 auto
-    text align: center;
+    margin:0 auto;
+    text-align: center;
 }
 
 header{
@@ -44,8 +44,9 @@ section h2{
   font-weight: 300;
   font-style: normal;
   text-align: center;
-  font-size:larger
+  font-size:larger;
 }
+
 h3{ 
     font-family: "Quicksand", sans-serif;
     font-size:x-large;
@@ -55,8 +56,8 @@ h3{
   border: 3px solid #687658;
   width: 40%;
  padding: 2%;
-
 }
+
 main{
 max-width: 65%;
 margin-left:30%;
@@ -70,10 +71,8 @@ align-items: center;
 p{
     font-family: "Inconsolata", monospace;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight:400;
     font-style: normal;
-    font-variation-settings:
-      "wdth" 100;
 }
 
 
@@ -97,8 +96,7 @@ footer{
     font-family: "Sacramento", cursive;
     font-weight: 400;
     font-style: normal;
-    font-size: 25pt;
-    
+    font-size: 25pt;    
     
 }
 
@@ -135,7 +133,6 @@ footer{
     top: 0px; 
     left: 0px; 
     align-content: center;
-    margin-left: 10%;
  }
  
  #trio1{
