@@ -183,6 +183,13 @@ footer{
     text-align: center;
  }
 
+ #insta p{ 
+    text-align: center;
+ }
+#tiktok p{
+    text-align: center;
+}
+
  #pinterest{
    background-color: #BFBFB8;
     padding: 2%; 
